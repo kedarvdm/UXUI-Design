@@ -1,0 +1,61 @@
+.content {
+    margin-top: 20px;
+}
+footer {
+	padding-top: 50px;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+.row {
+	padding-top: 20px;
+	padding-bottom: 0px;
+}
+hr {
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+	padding: 0px;
+    margin: 0px;
+}
+.bottomline {
+    border-bottom: 2px solid #ccc;
+	border-color:#F39C12;
+}
+.topline {
+    border-top: 2px solid #ccc;
+	border-color:#F39C12;
+}
+.turnred{
+	color:red;
+}
+.toplinewithpadding {
+	padding-top:10px;
+    border-top: 2px solid #ccc;
+	border-color:#F39C12;
+}
+.logo{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+img {
+  max-width: 100%;
+  width: auto   9;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  height: 320px !important;
+  max-width: 850px !important;
+}
